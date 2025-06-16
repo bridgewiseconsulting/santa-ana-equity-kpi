@@ -7,8 +7,8 @@
 This Shareholder Agreement ("Agreement") is made and entered into on this \_\_\_\_ day of \_\_\_\_\_\_\_\_, in Santa Ana, Cagayan, Philippines, by and among the following parties:
 
 1. **A股东**， （资产提供人）， 身份证号/护照号：\_\_\_\_\_\_\_\_，出资 ₱250,000，持股比例24%；
-2. **B股东**，（顾问人）身份证号/护照号：\_\_\_\_\_\_\_\_，根据当地市场提供顾问支持，持技术股份比例 5%；
-3. **C股东**（出资人），身份证号/护照号：\_\_\_\_\_\_\_\_，出资 ₱500,000，持股比例47%；
+2. **B股东**，（顾问人）身份证号/护照号：\_\_\_\_\_\_\_\_，根据当地市场提供顾问支持，持技术股份比例 3%；
+3. **C股东**（出资人），身份证号/护照号：\_\_\_\_\_\_\_\_，出资 ₱500,000，持股比例49%；
 4. **D股东**，（出资人），身份证号/护照号：\_\_\_\_\_\_\_\_，出资 ₱250,000，持股比例24%。
 
 ---
@@ -37,15 +37,15 @@ temporary authorization： Shareholder A&B is granted 13% sweat equity,D shareho
 | 时间 / Time        | KPI 达成 / KPI Achieved          | 干股释放比例 / Equity Released |
 | ---------------- | ------------------------------ | ------------------------ |
 | 第1季度 / quarter 1st   | 达成80%指标 / 80% KPI met          | 5%                       |
-| 第2季度 / quarter 2nd   | 累计2个季度达标 / 2 quarter met          | +5%（累计 10%）                |
-| 第3季度 / quarter 3rd | 表现优异 / Outstanding Performance | 增至 10%-13%（经董事一致同意）        |
+| 第2季度 / quarter 2nd   | 累计2个季度达标 / 2 quarter met          | +2%（累计）                |
+| 第3季度 / quarter 3rd | 表现优异 / Outstanding Performance | 增至 10%（经董事一致同意）        |
 
 2.3 若连续2个季度未达标，暂停分红；连续3个季度未达标，冻结已授股份；连续4季度未达标，已授股份自动回收。
 If KPI is unmet for 2 quarter, dividends are paused; 3 quarter, equity is frozen; 4 quarter, equity is revoked.
 
 ---
 
-### 第三条 分红与利润分配 / Dividend and Profit Distribution
+### 第三条 分红/利润分配和支出审批 / Dividend Profit Distribution and Spending Control 
 
 3.1 净利润中30%作为公司预留，70%分配给股东。
 30% of net profit shall be retained by the company, 70% distributed among shareholders.
@@ -56,7 +56,14 @@ Capital shareholders receive dividends by shareholding ratio, sweat equity holde
 3.3 管理岗位可另设奖金激励（如绩效奖、客户提成），由财务主管股东（C）主控考核执行。
 Management positions may receive performance bonuses or commissions, subject to evaluation by shareholder C.
 
+3.4 所有利润分红应每月统一结算，依据公司财务记录及 KPI 评分，由实际出资人 C 统一主控账务并负责对账审核。
+All profit distributions shall be settled monthly based on financial records and KPI results, and shall be overseen and approved by beneficial owner C as the chief financial controller.
+
+3.5 所有超过₱50,000之单笔支出，必须经由两名实际股东 共同签字批准；超过₱100,000之单笔支出，必须经由两名实际股东（含C）签字确认方可执行。
+Any single expenditure exceeding ₱50,000 must be approved with dual signatures of two beneficial shareholders (including C). Any single expenditure over ₱100,000 shall require direct approval and signature by shareholder C.
+
 ---
+
 
 ### 第四条 退出与转让 / Exit and Transfer
 
