@@ -7,7 +7,7 @@
 This Shareholder Agreement ("Agreement") is made and entered into on this \_\_\_\_ day of \_\_\_\_\_\_\_\_, in Santa Ana, Cagayan, Philippines, by and among the following parties:
 
 1. **A股东**， （资产提供人）， 身份证号/护照号：\_\_\_\_\_\_\_\_，出资 ₱250,000，持股比例24%；
-2. **B股东**，（顾问人）身份证号/护照号：\_\_\_\_\_\_\_\_，持股份比例 5%；
+2. **B股东**，（顾问人）身份证号/护照号：\_\_\_\_\_\_\_\_，根据当地市场提供，顾问支持，持技术股份比例 5%；
 3. **C股东**（出资人），身份证号/护照号：\_\_\_\_\_\_\_\_，出资 ₱500,000，持股比例47%；
 4. **D股东**，（出资人），身份证号/护照号：\_\_\_\_\_\_\_\_，出资 ₱250,000，持股比例24%。
 
@@ -21,7 +21,7 @@ Each party acknowledges their shareholding and capital contribution as above.
 1.2 各出资股东按持股比例享有利润分配权与表决权。
 Each capital-contributing shareholder shall be entitled to profit distribution and voting rights proportionate to their shares.
 
-1.3 干股持有人（B）享有利润分红但不享有投票权，须满足绩效条件方可逐步释放其权益。
+1.3  技术股份人（B）享有利润分红但不享有投票权，须满足绩效条件方可逐步释放其权益。
 Sweat equity holder (B) shall be entitled to profit sharing but not voting rights, and equity shall vest gradually based on KPI performance.
 
 ---
