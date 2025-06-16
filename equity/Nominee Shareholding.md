@@ -5,9 +5,10 @@
 本协议由以下各方于 \_\_\_\_年\_\_月\_\_日 于菲律宾卡加延省圣安娜签署：
 This Agreement is made and entered into on \_\_\_\_\_\_\_\_, in Santa Ana, Cagayan, Philippines, by and among:
 
-* **甲方 A（实际出资人之一 / Beneficial Owner）**：\_\_\_\_\_\_\_\_（中国籍）
+* **甲方 A  （菲律宾籍名义持股人之一 / Nominee Shareholder）**：\_\_\_\_\_\_\_\_（菲律宾籍，A小伙伴之配偶）
 * **乙方 B（菲律宾籍名义持股人之一 / Nominee Shareholder）**：\_\_\_\_\_\_\_\_（菲律宾籍，B小伙伴之配偶）
-* **丙方 C（菲律宾籍名义持股人之一 / Nominee Shareholder）**：\_\_\_\_\_\_\_\_（菲律宾籍，A小伙伴之配偶）
+* **丙方 C （实际出资人之一 / Beneficial Owner）**：\_\_\_\_\_\_\_\_（中国籍 ）
+* **丁方 D （实际出资人之一 / Beneficial Owner）**：\_\_\_\_\_\_\_\_（中国籍 ）
 
 为依法设立 Santa Ana Fresh Supply 公司并满足菲律宾本地持股比例要求，乙方与丙方作为登记法人股东，代持如下真实股东结构权益：
 
@@ -15,8 +16,8 @@ This Agreement is made and entered into on \_\_\_\_\_\_\_\_, in Santa Ana, Cagay
 
 ### 第一条：登记名义股份 / Registered Shareholding
 
-1.1 公司在菲律宾注册时，乙方（B之妻）名下登记持股比例为 51%；丙方（A之妻）名下登记持股比例为 49%。
-B shall be registered with 51% shares and C with 49% shares as per Philippine incorporation requirements.
+1.1 公司在菲律宾注册时，乙方（B之妻）名下登记持股比例为 49%；甲方（A之妻）名下登记持股比例为 51%。
+When the company was registered in the Philippines, Party B (B’s wife) held 49% of the shares, while Party A (A’s wife) held 51% of the shares.
 
 ---
 
@@ -32,14 +33,14 @@ Despite the above registration, the actual equity and capital contributions are 
 | C   | 47%       | ₱500,000  | 资金股     |
 | D   | 24%       | ₱250,000  | 管理运营    |
 
-2.2 登记法人股东乙方与丙方声明，愿意代持上述股份比例，不享有任何实际利润、管理、决策等权利，所有操作依照真实股东指示执行。
+2.2 登记法人股东乙方与甲方声明，愿意代持上述股份比例，不享有任何实际利润、管理、决策等权利，所有操作依照真实股东指示执行。
 Nominee shareholders agree to hold shares in name only and shall have no rights to profits or control.
 
 ---
 
 ### 第三条：配合义务 / Obligations of Nominees
 
-3.1 乙方与丙方应根据实际股东指示签署所有公司文件，包括但不限于章程、会议决议、银行文件等。
+3.1 乙方与方应根据实际股东指示签署所有公司文件，包括但不限于章程、会议决议、银行文件等。
 Nominees shall sign all company documents at the direction of beneficial owners.
 
 3.2 若实际股东提出变更登记、股份转让、法人调整等要求，乙方与丙方应无条件配合。
@@ -74,8 +75,10 @@ This Agreement shall be governed by Philippine law. Disputes shall be resolved b
 
 ### 签署 / Signatures
 
-实际出资人 A：\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+名义股东 A（A小伙伴配偶）：\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 名义股东 B（B小伙伴配偶）：\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-名义股东 C（A小伙伴配偶）：\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+实际出资人 C：\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+实际出资人 D：\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 签署日期 / Date：\_\_\_\_年\_\_月\_\_日
