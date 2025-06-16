@@ -28,10 +28,10 @@ Despite the above registration, the actual equity and capital contributions are 
 
 | 小伙伴 | 占股（真实）    | 出资情况      | 说明      |
 | --- | --------- | --------- | ------- |
-| A   | 24%       | ₱250,000  | 冷冻库资产入股 |
-| B   | 5%（含干股5%） | ₱0（人脉+客户） | 管理+代持人  |
-| C   | 47%       | ₱500,000  | 资金股     |
-| D   | 24%       | ₱250,000  | 管理运营    |
+| A   | 24%       | ₱250,000  | 冷冻库资产入股 + 市场公关 |
+| B   | 4%      | ₱0（人脉+客户） | 管理+代持人  |
+| C   | 48%       | ₱500,000  | 资金股+管理运营（系统技术提供） |
+| D   | 24%       | ₱250,000  | 资金股+管理运营 |
 
 2.2 登记法人股东乙方与甲方声明，愿意代持上述股份比例，不享有任何实际利润、管理、决策等权利，所有操作依照真实股东指示执行。
 Nominee shareholders agree to hold shares in name only and shall have no rights to profits or control.
