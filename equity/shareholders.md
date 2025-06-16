@@ -31,17 +31,17 @@ Sweat equity holder (B) shall be entitled to profit sharing but not voting right
 2.1 公司为激励核心岗位人员，设立不超过20%的干股池。
 To incentivize key roles, the company allocates up to 20% of shares for sweat equity.
 
-2.2 B股东基于其客户资源与业务拓展价值，预授干股5%，根据如下条件分阶段释放：
-Shareholder B is granted 5% sweat equity, subject to phased vesting:
+2.2 A&B股东基于其客户资源与业务拓展价值，预授干股13%，D股东现场管理，预权 7%，根据如下条件分阶段释放：
+Shareholder A&B is granted 13% sweat equity,D shareholder on-site management, pre-authorization 7%， subject to phased vesting:
 
 | 时间 / Time        | KPI 达成 / KPI Achieved          | 干股释放比例 / Equity Released |
 | ---------------- | ------------------------------ | ------------------------ |
-| 第3个月 / Month 3   | 达成80%指标 / 80% KPI met          | 2%                       |
-| 第6个月 / Month 6   | 累计3月达标 / 3 months met          | +3%（累计5%）                |
-| 第12个月 / Month 12 | 表现优异 / Outstanding Performance | 增至7%-10%（经董事一致同意）        |
+| 第1季度 / quarter 1st   | 达成80%指标 / 80% KPI met          | 5%                       |
+| 第2季度 / quarter 2nd   | 累计2个季度达标 / 2 quarter met          | +5%（累计 10%）                |
+| 第3季度 / quarter 3rd | 表现优异 / Outstanding Performance | 增至 10%-13%（经董事一致同意）        |
 
-2.3 若连续2个月未达标，暂停分红；连续3个月未达标，冻结已授股份；连续6个月未达标，已授股份自动回收。
-If KPI is unmet for 2 months, dividends are paused; 3 months, equity is frozen; 6 months, equity is revoked.
+2.3 若连续2个季度未达标，暂停分红；连续3个季度未达标，冻结已授股份；连续4季度未达标，已授股份自动回收。
+If KPI is unmet for 2 quarter, dividends are paused; 3 quarter, equity is frozen; 4 quarter, equity is revoked.
 
 ---
 
@@ -71,7 +71,7 @@ Sweat equity is non-transferable and subject to internal agreement.
 ### 第五条 法人名义与代持 / Nominee Arrangement
 
 5.1 公司登记法人可为本地配偶名义，A&B股东负责法人代持签署责任，另行签署《法人代持协议》。
-The registered corporate representative may be in the name of a local spouse. Shareholder B shall act as nominee, subject to a separate Nominee Agreement.
+The registered corporate representative may be in the name of a local spouse. Shareholder A&B shall act as nominee, subject to a separate Nominee Agreement.
 
 ---
 
