@@ -28,7 +28,7 @@ Sweat equity holder (B) shall be entitled to profit sharing but not voting right
 
 ### 第二条 干股与管理股机制 / Sweat Equity & Management Rights
 
-2.1 公司为激励核心岗位人员，设立不超过20%的干股池。
+2.1 公司为激励核心岗位人员，原则上设立不超过20%的干股池。
 To incentivize key roles, the company allocates up to 20% of shares for sweat equity.
 
 2.2 暂时授权：A&B股东基于其客户资源与业务拓展价值，预授干股13%，D股东现场管理，预权 7%，根据如下条件分阶段释放：
@@ -70,8 +70,8 @@ Any single expenditure exceeding ₱50,000 must be approved with dual signatures
 4.1 股东如欲退出，须至少三分之二其他股东书面同意。
 Any shareholder’s exit requires written consent of at least two-thirds of the other shareholders.
 
-4.2 干股不得转让，仅限内部协议退出。
-Sweat equity is non-transferable and subject to internal agreement.
+4.2 非资金股不得转让，仅限内部协议退出。
+Non-capital shares cannot be transferred, and exit is limited to internal agreement.
 
 ---
 
