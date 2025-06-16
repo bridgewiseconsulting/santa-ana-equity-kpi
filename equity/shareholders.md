@@ -7,7 +7,7 @@
 This Shareholder Agreement ("Agreement") is made and entered into on this \_\_\_\_ day of \_\_\_\_\_\_\_\_, in Santa Ana, Cagayan, Philippines, by and among the following parties:
 
 1. **A股东**， （资产提供人）， 身份证号/护照号：\_\_\_\_\_\_\_\_，出资 ₱250,000，持股比例24%；
-2. **B股东**，（顾问人）身份证号/护照号：\_\_\_\_\_\_\_\_，根据当地市场提供，顾问支持，持技术股份比例 5%；
+2. **B股东**，（顾问人）身份证号/护照号：\_\_\_\_\_\_\_\_，根据当地市场提供顾问支持，持技术股份比例 5%；
 3. **C股东**（出资人），身份证号/护照号：\_\_\_\_\_\_\_\_，出资 ₱500,000，持股比例47%；
 4. **D股东**，（出资人），身份证号/护照号：\_\_\_\_\_\_\_\_，出资 ₱250,000，持股比例24%。
 
@@ -31,8 +31,8 @@ Sweat equity holder (B) shall be entitled to profit sharing but not voting right
 2.1 公司为激励核心岗位人员，设立不超过20%的干股池。
 To incentivize key roles, the company allocates up to 20% of shares for sweat equity.
 
-2.2 A&B股东基于其客户资源与业务拓展价值，预授干股13%，D股东现场管理，预权 7%，根据如下条件分阶段释放：
-Shareholder A&B is granted 13% sweat equity,D shareholder on-site management, pre-authorization 7%， subject to phased vesting:
+2.2 暂时授权：A&B股东基于其客户资源与业务拓展价值，预授干股13%，D股东现场管理，预权 7%，根据如下条件分阶段释放：
+temporary authorization： Shareholder A&B is granted 13% sweat equity,D shareholder on-site management, pre-authorization 7%， subject to phased vesting:
 
 | 时间 / Time        | KPI 达成 / KPI Achieved          | 干股释放比例 / Equity Released |
 | ---------------- | ------------------------------ | ------------------------ |
